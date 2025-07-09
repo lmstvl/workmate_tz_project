@@ -17,3 +17,9 @@ python main.py --file tests/sample.csv --aggregate rating=max
 ```
 pip install -r requirements.txt
 ```
+
+## Запуск тестов 
+
+```
+pytest
+```
